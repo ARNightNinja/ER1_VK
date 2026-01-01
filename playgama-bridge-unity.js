@@ -140,9 +140,9 @@ function initializeBridge() {
                 createUnityInstance(
                     CANVAS,
                     {
-                        dataUrl: 'Build/37361a0478526e9151a42565c1e35fbe.data.unityweb',
+                        dataUrl: 'Build/65a13dbd19531aac9e58c9d005e7cf33.data.unityweb',
                         frameworkUrl: 'Build/eb6f8ce39dd58d65890763c449652913.framework.js.unityweb',
-                        codeUrl: 'Build/6801b7ead4dd05b83dbb36a141222c29.wasm.unityweb',
+                        codeUrl: 'Build/0bed3fbff5db80537e918b97cf9da4a4.wasm.unityweb',
                         streamingAssetsUrl: 'StreamingAssets',
                         companyName: 'Kreiz.Obby.Parkour',
                         productName: 'Your Obby Size',
